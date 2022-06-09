@@ -9,12 +9,12 @@
 ![smiley face](https://images.app.goo.gl/HMmBszQ8aEFSPCzz5)
 
 ### What I want to learn In Computer Science
-- How websites are made
-- How to make games
+- How websites are made 💻
+- How to make games 🎮
 
 ### Why learning computer science is important to me
-- Computer science is the reason we can taalk with people on the other side of the world
-- Computer science is the reason why we can get so entertained in games!
+- Computer science is the reason we can taalk with people on the other side of the world 🌎
+- Computer science is the reason why we can get so entertained in games! 😄
 
 <!--
 **rinyvom/rinyvom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
